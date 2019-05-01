@@ -1,0 +1,35 @@
+* {
+
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+}
+.konteineris {
+	max-width: 992px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	text-align: center;
+}
+li	{
+	display: inline;
+}
+.dezes {
+	text-align: center;
+	display: flex;
+background-color: #9bffac;
+s
+
+}
+
+}
+
+
+}
+.navigacija {
+	text-align: right;
+}
+img	{
+	border-radius: 100px;
+	}

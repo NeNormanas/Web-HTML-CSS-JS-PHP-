@@ -1,0 +1,94 @@
+
+* {
+	box-sizing: border-box;
+}
+
+
+p{
+	color: orange;
+}
+p::first-line{
+	font-weight: bold;
+}
+
+h1	{
+	color: indianred;
+	background-color: #dddddd
+}
+.pilkas {
+	color: red;
+}
+.pilkas {
+	color: blue;
+}
+.isvados{
+	color: brown;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: "Arial";
+	text-align: center;
+
+}
+.raudonas {
+	color: #999999;
+}
+a {
+	color: orange;
+}
+a:visited {
+	color: green;
+}
+
+a:hover {
+	color: lime;
+}
+
+.Elementas {
+	color: brown;
+}
+
+.Nuotrauka {
+	width: 100%;
+	border: 5px solid red;
+	padding: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+	}
+
+	/* iscentravimas */
+.konteineris {
+	max-width: 992px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	}
+.dezes {
+	display: flex;
+	justify-content: space-between;
+}
+.deze {
+	
+	width: 30%;
+	
+
+}
+.raudona {
+	
+	background-color: red;
+}
+.zalia {
+	
+	background-color: green;
+}
+.melyna {
+	
+	background-color: blue;
+}
+
+.pozicija {
+	position: absolute;
+	top: 200px;
+	left: 200px;
+}
